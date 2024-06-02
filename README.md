@@ -18,7 +18,7 @@
 (!) Requires AutoHotkey v1.1 (not v2.0). 
 Download here: https://www.autohotkey.com/
 
-[**Download Toggle All Microphones >> Click Here**](https://github.com/etofok/Toggle-All-Microphones/archive/refs/heads/main.zip)
+[**Download Toggle All Microphones >> Click Here**](https://github.com/etofok/Toggle-All-Microphones-by-etofok/releases/)
 
 [**etofok LinkTree >>**](https://linktr.ee/etofok)
 
